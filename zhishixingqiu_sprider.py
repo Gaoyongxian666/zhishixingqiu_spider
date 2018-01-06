@@ -14,7 +14,7 @@ def get_json(count,end_time):
 
     # 头部信息，直接复制自己的
     headers = """
-      authorization:EDA11C4F-995B-EC6D-352F-6D6EE24A10D9
+      authorization:XXXXXXXXXX
       User-Agent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.104 Safari/537.36 Core/1.53.4033.400 QQBrowser/9.6.12624.400
           """
     headers = headers_to_dict(headers)

@@ -3,8 +3,6 @@ from urllib.parse import urlencode
 import requests
 import json
 
-
-
 def get_json(count,end_time):
     data={
         "count": count,
@@ -83,7 +81,6 @@ def read_json():
                     break
         except:
             f.close()
-
 
 
 if __name__ =="__main__":

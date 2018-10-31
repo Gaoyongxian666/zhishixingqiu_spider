@@ -1,4 +1,4 @@
-# zhishixingqiu_sprider
+# zhishixingqiu_spider
 爬虫，爬取知识星球网页版
  
 requests实现
